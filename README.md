@@ -11,7 +11,8 @@ Now open the name_of_the_file.bin in the dummy6502 program.
 
 
 
-#Some documentation:
+Some documentation:
+
 https://www.masswerk.at/6502/6502_instruction_set.html
 
 http://www.6502.org/tutorials/6502opcodes.html
