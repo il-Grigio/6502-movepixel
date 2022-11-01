@@ -18,5 +18,3 @@ https://www.masswerk.at/6502/6502_instruction_set.html
 http://www.6502.org/tutorials/6502opcodes.html
 
 https://skilldrick.github.io/easy6502/
-
-![immagine](https://user-images.githubusercontent.com/82876230/199296827-b10b1690-c911-41db-aa17-bcbdf2e8d6f8.png)
